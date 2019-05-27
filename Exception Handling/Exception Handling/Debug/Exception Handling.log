@@ -1,0 +1,20 @@
+﻿LINK : warning LNK4075: '/INCREMENTAL'이(가) '/RELEASE' 사양으로 인해 무시됩니다.
+kernel32.lib(KERNEL32.dll) : warning LNK4237: 'KERNEL32.DLL'에서 가져올 때 /SUBSYSTEM:NATIVE가 지정되었습니다. /SUBSYSTEM:CONSOLE 또는 /SUBSYSTEM:WINDOWS를 사용하십시오.
+Exception Handling.obj : error LNK2019: _strlen 외부 기호(참조 위치: "public: static unsigned int __cdecl std::char_traits<char>::length(char const * const)" (?length@?$char_traits@D@std@@SAIQBD@Z) 함수)에서 확인하지 못했습니다.
+Exception Handling.obj : error LNK2019: __CxxThrowException@8 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+Exception Handling.obj : error LNK2019: ___CxxFrameHandler3 외부 기호(참조 위치: __unwindfunclet$??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z$2 함수)에서 확인하지 못했습니다.
+LINK : error LNK2001: _NtProcessStartup 외부 기호를 확인할 수 없습니다.
+MSVCRTD.lib(_init_.obj) : error LNK2019: __CrtDbgReport 외부 기호(참조 위치: __CRT_RTC_INIT 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_init_.obj) : error LNK2019: __CrtDbgReportW 외부 기호(참조 위치: __CRT_RTC_INITW 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_error_.obj) : error LNK2019: _strcpy_s 외부 기호(참조 위치: "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPAXPBD@Z) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_error_.obj) : error LNK2019: _strcat_s 외부 기호(참조 위치: "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPAXPBD@Z) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_error_.obj) : error LNK2019: ___stdio_common_vsprintf_s 외부 기호(참조 위치: __vsprintf_s_l 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: __wmakepath_s 외부 기호(참조 위치: "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned int)" (?GetPdbDllPathFromFilePath@@YAHPB_WPA_WI@Z) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: __wsplitpath_s 외부 기호(참조 위치: "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned int)" (?GetPdbDllPathFromFilePath@@YAHPB_WPA_WI@Z) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: _wcscpy_s 외부 기호(참조 위치: "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned int)" (?GetPdbDllPathFromFilePath@@YAHPB_WPA_WI@Z) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: ___vcrt_GetModuleFileNameW 외부 기호(참조 위치: "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: ___vcrt_GetModuleHandleW 외부 기호(참조 위치: "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_pdblkup_.obj) : error LNK2019: ___vcrt_LoadLibraryExW 외부 기호(참조 위치: "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(_chandler4gs_.obj) : error LNK2019: __except_handler4_common 외부 기호(참조 위치: __except_handler4 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(delete_scalar.obj) : error LNK2019: __free_dbg 외부 기호(참조 위치: "void __cdecl operator delete(void *)" (??3@YAXPAX@Z) 함수)에서 확인하지 못했습니다.
+C:\Users\Administrator\source\repos\Exception Handling\Debug\Exception Handling.exe : fatal error LNK1120: 17개의 확인할 수 없는 외부 참조입니다.

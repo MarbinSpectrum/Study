@@ -1,0 +1,9 @@
+﻿  Copy Constructor.cpp
+c:\users\administrator\source\repos\copy constructor\copy constructor\copy constructor.cpp(31): error C2440: '=': 'int *'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\administrator\source\repos\copy constructor\copy constructor\copy constructor.cpp(31): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\administrator\source\repos\copy constructor\copy constructor\copy constructor.cpp(32): error C2440: '=': 'int *'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\administrator\source\repos\copy constructor\copy constructor\copy constructor.cpp(32): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\administrator\source\repos\copy constructor\copy constructor\copy constructor.cpp(46): error C2440: '=': 'int *'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\administrator\source\repos\copy constructor\copy constructor\copy constructor.cpp(46): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\administrator\source\repos\copy constructor\copy constructor\copy constructor.cpp(47): error C2440: '=': 'int *'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\administrator\source\repos\copy constructor\copy constructor\copy constructor.cpp(47): note: 이 변환이 가능한 컨텍스트가 없습니다.
