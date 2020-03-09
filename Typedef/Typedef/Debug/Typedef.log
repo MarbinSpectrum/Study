@@ -1,5 +1,0 @@
-﻿  enum.cpp
-  struct.cpp
-  코드를 생성하고 있습니다...
-struct.obj : error LNK2005: _main이(가) enum.obj에 이미 정의되어 있습니다.
-C:\Users\Administrator\source\repos\Typedef\Debug\Typedef.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

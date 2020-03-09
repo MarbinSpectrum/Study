@@ -1,3 +1,0 @@
-﻿  cout.cpp
-c:\users\administrator\source\repos\c++\cout\cout\cout.cpp(1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-  cout.vcxproj -> C:\Users\Administrator\source\repos\C++\cout\Debug\cout.exe

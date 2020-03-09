@@ -1,3 +1,0 @@
-﻿  struct.cpp
-c:\users\administrator\source\repos\typedef2\typedef2\struct.cpp(20): error C2664: 'void show(Car *)': 인수 1을(를) 'Car'에서 'Car *'(으)로 변환할 수 없습니다.
-  c:\users\administrator\source\repos\typedef2\typedef2\struct.cpp(20): note: 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.

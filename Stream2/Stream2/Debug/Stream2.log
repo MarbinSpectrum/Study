@@ -1,3 +1,0 @@
-﻿  Stream2.cpp
-c:\users\administrator\source\repos\stream2\stream2\stream2.cpp(6): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
-  Stream2.vcxproj -> C:\Users\Administrator\source\repos\Stream2\Debug\Stream2.exe
