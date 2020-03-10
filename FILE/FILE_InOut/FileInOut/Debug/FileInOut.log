@@ -1,0 +1,2 @@
+﻿  FileInOut.cpp
+d:\program files\git\studyc++\file\file_inout\fileinout\fileinout.cpp(141): error C4700: 초기화되지 않은 'wp' 지역 변수를 사용했습니다.
